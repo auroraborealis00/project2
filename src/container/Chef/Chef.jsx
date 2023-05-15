@@ -22,12 +22,8 @@ When creating dishes, I use the inspirations I got from my childhood, and travel
         <p className="p__opensans"> For me, cooking is a journey, a journey that only I have experienced, and now I am able to share that journey with you, in the dishes that we will cook together, as every dish has its unique story.
 Let us cook together, and allow me to take you to a journey, and share my culinary philosophy with you. </p>
       </div>
-
-      <div className="app__chef-sign">
-        <p>Kevin Luo</p>
+        <p>Kevin Liiv</p>
         <p className="p__opensans">Chef & Founder</p>
-        <img src={images.sign} alt="sign_image" />
-      </div>
     </div>
   </div>
 );
